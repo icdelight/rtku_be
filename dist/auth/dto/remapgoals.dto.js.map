@@ -1,0 +1,1 @@
+{"version":3,"file":"remapgoals.dto.js","sourceRoot":"","sources":["../../../src/auth/dto/remapgoals.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,qDAA8D;AAE9D,MAAa,aAAa;CAOzB;AADG;IALC,IAAA,4BAAU,EAAC,EAAC,OAAO,EAAE,0BAA0B,EAAC,CAAC;IACjD,IAAA,wBAAM,EAAC;QACJ,OAAO,EAAE,CAAC,QAAQ,EAAE,EAAE;YAClB,OAAO,QAAQ,CAAC,QAAQ,GAAG,yBAAyB,CAAC;QAC7D,CAAC;KAAE,CAAC;;6CACW;AANnB,sCAOC"}
